@@ -1,0 +1,4 @@
+
+public class ChildGear : ParentGear
+{
+}
